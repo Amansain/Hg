@@ -1,7 +1,7 @@
 <img src="https://telegra.ph/file/0a7b1472017accb4dc9f6.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Andy Movies ( PREMIUM Renamer ) </a></>
+ <b><a href="https://telegram.me/about_amansain" target="/blank"> Andy Movies ( PREMIUM Renamer ) </a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
